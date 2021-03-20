@@ -23,7 +23,7 @@ To get a first impression about how the fetched data may be processed, please ha
 
 ## Getting Started
 ### Requirements
-- [yfinance](https://github.com/ranaroussi/yfinance) >=
+- [yfinance](https://github.com/ranaroussi/yfinance) >= 0.1.55
 
 
 ## Acknowledgements
