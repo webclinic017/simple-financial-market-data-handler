@@ -1,0 +1,122 @@
+{
+    "ADS.DE": {
+        "isin": "DE000A1EWWW0",
+        "name": "adidas"
+    },
+    "ALV.DE": {
+        "isin": "DE0008404005",
+        "name": "Allianz"
+    },
+    "BAS.DE": {
+        "isin": "DE000BASF111",
+        "name": "BASF"
+    },
+    "BAYN.DE": {
+        "isin": "DE000BAY0017",
+        "name": "Bayer"
+    },
+    "BEI.DE": {
+        "isin": "DE0005200000",
+        "name": "Beiersdorf"
+    },
+    "BMW.DE": {
+        "isin": "DE0005190003",
+        "name": "BMW"
+    },
+    "CON.DE": {
+        "isin": "DE0005439004",
+        "name": "Continental"
+    },
+    "1COV.DE": {
+        "isin": "DE0006062144",
+        "name": "Covestro"
+    },
+    "DAI.DE": {
+        "isin": "DE0007100000",
+        "name": "Daimler"
+    },
+    "DHER.DE": {
+        "isin": "DE000A2E4K43",
+        "name": "Delivery Hero"
+    },
+    "DBK.DE": {
+        "isin": "DE0005140008",
+        "name": "Deutsche Bank"
+    },
+    "DB1.DE": {
+        "isin": "DE0005810055",
+        "name": "Deutsche B\u00c3\u00b6rse"
+    },
+    "DPW.DE": {
+        "isin": "DE0005552004",
+        "name": "Deutsche Post"
+    },
+    "DTE.DE": {
+        "isin": "DE0005557508",
+        "name": "Deutsche Telekom"
+    },
+    "DWNI.DE": {
+        "isin": "DE000A0HN5C6",
+        "name": "Deutsche Wohnen"
+    },
+    "EOAN.DE": {
+        "isin": "DE000ENAG999",
+        "name": "E.ON"
+    },
+    "FRE.DE": {
+        "isin": "DE0005785604",
+        "name": "Fresenius"
+    },
+    "FME.DE": {
+        "isin": "DE0005785802",
+        "name": "Fresenius Medical Care"
+    },
+    "HEI.DE": {
+        "isin": "DE0006047004",
+        "name": "HeidelbergCement"
+    },
+    "HEN3.DE": {
+        "isin": "DE0006048432",
+        "name": "Henkel vz."
+    },
+    "IFX.DE": {
+        "isin": "DE0006231004",
+        "name": "Infineon"
+    },
+    "LIN.DE": {
+        "isin": "IE00BZ12WP82",
+        "name": "Linde"
+    },
+    "MRK.DE": {
+        "isin": "DE0006599905",
+        "name": "Merck"
+    },
+    "MTX.DE": {
+        "isin": "DE000A0D9PT0",
+        "name": "MTU Aero Engines"
+    },
+    "MUV2.DE": {
+        "isin": "DE0008430026",
+        "name": "M\u00c3\u00bcnchener R\u00c3\u00bcckversicherungs-Gesellschaft"
+    },
+    "RWE.DE": {
+        "isin": "DE0007037129",
+        "name": "RWE"
+    },
+    "SAP.DE": {
+        "isin": "DE0007164600",
+        "name": "SAP"
+    },
+    "SIE.DE": {
+        "isin": "DE0007236101",
+        "name": "Siemens"
+    },
+    "VOW3.DE": {
+        "isin": "DE0007664039",
+        "name": "Volkswagen (VW) vz."
+    },
+    "VNA.DE": {
+        "isin": "DE000A1ML7J1",
+        "name": "Vonovia"
+    }
+}

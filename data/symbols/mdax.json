@@ -1,0 +1,242 @@
+{
+    "ARL.DE": {
+        "isin": "DE0005408116",
+        "name": "Aareal Bank"
+    },
+    "AIR.DE": {
+        "isin": "NL0000235190",
+        "name": "Airbus"
+    },
+    "AIXA.DE": {
+        "isin": "DE000A0WMPJ6",
+        "name": "AIXTRON"
+    },
+    "AOX.DE": {
+        "isin": "DE000A0LD2U1",
+        "name": "alstria office REIT-AG"
+    },
+    "AT1.DE": {
+        "isin": "LU1673108939",
+        "name": "Aroundtown SA"
+    },
+    "NDA.DE": {
+        "isin": "DE0006766504",
+        "name": "Aurubis (ex Norddeutsche Affinerie)"
+    },
+    "BC8.DE": {
+        "isin": "DE0005158703",
+        "name": "Bechtle"
+    },
+    "BNR.DE": {
+        "isin": "DE000A1DAHH0",
+        "name": "Brenntag"
+    },
+    "COK.DE": {
+        "isin": "DE0005419105",
+        "name": "CANCOM"
+    },
+    "AFX.DE": {
+        "isin": "DE0005313704",
+        "name": "Carl Zeiss Meditec"
+    },
+    "CBK.DE": {
+        "isin": "DE000CBK1001",
+        "name": "Commerzbank"
+    },
+    "COP.DE": {
+        "isin": "DE000A288904",
+        "name": "CompuGroup Medical"
+    },
+    "EVD.DE": {
+        "isin": "DE0005470306",
+        "name": "CTS Eventim"
+    },
+    "DUE.DE": {
+        "isin": "DE0005565204",
+        "name": "D\u00c3\u00bcrr"
+    },
+    "EVK.DE": {
+        "isin": "DE000EVNK013",
+        "name": "Evonik"
+    },
+    "EVT.DE": {
+        "isin": "DE0005664809",
+        "name": "EVOTEC"
+    },
+    "FRA.DE": {
+        "isin": "DE0005773303",
+        "name": "Fraport"
+    },
+    "FNTN.DE": {
+        "isin": "DE000A0Z2ZZ5",
+        "name": "freenet"
+    },
+    "FPE3.DE": {
+        "isin": "DE0005790430",
+        "name": "FUCHS PETROLUB"
+    },
+    "G1A.DE": {
+        "isin": "DE0006602006",
+        "name": "GEA"
+    },
+    "GXI.DE": {
+        "isin": "DE000A0LD6E6",
+        "name": "Gerresheimer"
+    },
+    "GYC.DE": {
+        "isin": "LU0775917882",
+        "name": "Grand City Properties"
+    },
+    "HNR1.DE": {
+        "isin": "DE0008402215",
+        "name": "Hannover R\u00c3\u00bcck"
+    },
+    "HLE.DE": {
+        "isin": "DE000A13SX22",
+        "name": "HELLA"
+    },
+    "HFG.DE": {
+        "isin": "DE000A161408",
+        "name": "HelloFresh"
+    },
+    "HOT.DE": {
+        "isin": "DE0006070006",
+        "name": "HOCHTIEF"
+    },
+    "BOSS.DE": {
+        "isin": "DE000A1PHFF7",
+        "name": "HUGO BOSS"
+    },
+    "SDF.DE": {
+        "isin": "DE000KSAG888",
+        "name": "K+S"
+    },
+    "KGX.DE": {
+        "isin": "DE000KGX8881",
+        "name": "KION GROUP"
+    },
+    "KBX.DE": {
+        "isin": "DE000KBX1006",
+        "name": "Knorr-Bremse"
+    },
+    "LXS.DE": {
+        "isin": "DE0005470405",
+        "name": "LANXESS"
+    },
+    "LEG.DE": {
+        "isin": "DE000LEG1110",
+        "name": "LEG Immobilien"
+    },
+    "LHA.DE": {
+        "isin": "DE0008232125",
+        "name": "Lufthansa"
+    },
+    "B4B.DE": {
+        "isin": "DE000BFB0019",
+        "name": "METRO (St.)"
+    },
+    "MOR.DE": {
+        "isin": "DE0006632003",
+        "name": "MorphoSys"
+    },
+    "NEM.DE": {
+        "isin": "DE0006452907",
+        "name": "Nemetschek"
+    },
+    "OSR.DE": {
+        "isin": "DE000LED4000",
+        "name": "OSRAM"
+    },
+    "PSM.DE": {
+        "isin": "DE000PSM7770",
+        "name": "ProSiebenSat.1 Media"
+    },
+    "PUM.DE": {
+        "isin": "DE0006969603",
+        "name": "PUMA"
+    },
+    "QIA.DE": {
+        "isin": "NL0012169213",
+        "name": "QIAGEN"
+    },
+    "RAA.DE": {
+        "isin": "DE0007010803",
+        "name": "RATIONAL"
+    },
+    "RHM.DE": {
+        "isin": "DE0007030009",
+        "name": "Rheinmetall"
+    },
+    "SRT3.DE": {
+        "isin": "DE0007165631",
+        "name": "Sartorius vz."
+    },
+    "G24.DE": {
+        "isin": "DE000A12DM80",
+        "name": "Scout24"
+    },
+    "SAE.DE": {
+        "isin": "NL0012044747",
+        "name": "Shop Apotheke Europe NV"
+    },
+    "ENR.DE": {
+        "isin": "DE000ENER6Y0",
+        "name": "Siemens Energy"
+    },
+    "SHL.DE": {
+        "isin": "DE000SHL1006",
+        "name": "Siemens Healthineers"
+    },
+    "WAF.DE": {
+        "isin": "DE000WAF3001",
+        "name": "Siltronic"
+    },
+    "SOW.DE": {
+        "isin": "DE000A2GS401",
+        "name": "Software"
+    },
+    "SAX.DE": {
+        "isin": "DE0007493991",
+        "name": "Str\u00c3\u00b6er"
+    },
+    "SY1.DE": {
+        "isin": "DE000SYM9999",
+        "name": "Symrise"
+    },
+    "TEG.DE": {
+        "isin": "DE0008303504",
+        "name": "TAG Immobilien"
+    },
+    "TMV.DE": {
+        "isin": "DE000A2YN900",
+        "name": "TeamViewer"
+    },
+    "O2D.DE": {
+        "isin": "DE000A1J5RX9",
+        "name": "Telefonica Deutschland"
+    },
+    "TKA.DE": {
+        "isin": "DE0007500001",
+        "name": "thyssenkrupp"
+    },
+    "UN01.DE": {
+        "isin": "DE000UNSE018",
+        "name": "Uniper"
+    },
+    "UTDI.DE": {
+        "isin": "DE0005089031",
+        "name": "United Internet"
+    },
+    "VAR1.DE": {
+        "isin": "DE000A0TGJ55",
+        "name": "Varta"
+    },
+    "WCH.DE": {
+        "isin": "DE000WCH8881",
+        "name": "WACKER CHEMIE"
+    },
+    "ZAL.DE": {
+        "isin": "DE000ZAL1111",
+        "name": "Zalando"
+    }
+}

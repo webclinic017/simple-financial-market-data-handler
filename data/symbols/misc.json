@@ -1,0 +1,23 @@
+{
+    "GC=F": {
+        "name": "Gold"
+    },
+    "BTC-USD": {
+        "name": "BTC-USD"
+    },
+    "ETH-USD": {
+        "name": "ETH-USD"
+    },
+    "^CMC200": {
+        "name": "CMC200"
+    },
+    "EURUSD=X": {
+        "name": "EUR-USD"
+    },
+    "URTH": {
+        "name": "MSCI"
+    },
+    "^TNX": {
+        "name": "Treasury Yield 10 Years"
+    }
+}

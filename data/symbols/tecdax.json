@@ -1,0 +1,122 @@
+{
+    "DRI.DE": {
+        "isin": "DE0005545503",
+        "name": "1&1 Drillisch"
+    },
+    "AIXA.DE": {
+        "isin": "DE000A0WMPJ6",
+        "name": "AIXTRON"
+    },
+    "BC8.DE": {
+        "isin": "DE0005158703",
+        "name": "Bechtle"
+    },
+    "COK.DE": {
+        "isin": "DE0005419105",
+        "name": "CANCOM"
+    },
+    "AFX.DE": {
+        "isin": "DE0005313704",
+        "name": "Carl Zeiss Meditec"
+    },
+    "COP.DE": {
+        "isin": "DE000A288904",
+        "name": "CompuGroup Medical"
+    },
+    "DTE.DE": {
+        "isin": "DE0005557508",
+        "name": "Deutsche Telekom"
+    },
+    "EUZ.DE": {
+        "isin": "DE0005659700",
+        "name": "Eckert Ziegler Strahlen- und Medizintechnik"
+    },
+    "EVT.DE": {
+        "isin": "DE0005664809",
+        "name": "EVOTEC"
+    },
+    "FNTN.DE": {
+        "isin": "DE000A0Z2ZZ5",
+        "name": "freenet"
+    },
+    "IFX.DE": {
+        "isin": "DE0006231004",
+        "name": "Infineon"
+    },
+    "JEN.DE": {
+        "isin": "DE000A2NB601",
+        "name": "JENOPTIK"
+    },
+    "LPK.DE": {
+        "isin": "DE0006450000",
+        "name": "LPKF Laser Electronics"
+    },
+    "MOR.DE": {
+        "isin": "DE0006632003",
+        "name": "MorphoSys"
+    },
+    "NEM.DE": {
+        "isin": "DE0006452907",
+        "name": "Nemetschek"
+    },
+    "NWO.DE": {
+        "isin": "DE000NWRK013",
+        "name": "New Work"
+    },
+    "NDX1.DE": {
+        "isin": "DE000A0D6554",
+        "name": "Nordex"
+    },
+    "PFV.DE": {
+        "isin": "DE0006916604",
+        "name": "Pfeiffer Vacuum"
+    },
+    "QIA.DE": {
+        "isin": "NL0012169213",
+        "name": "QIAGEN"
+    },
+    "RIB.DE": {
+        "isin": "DE000A0Z2XN6",
+        "name": "RIB Software"
+    },
+    "SANT.DE": {
+        "isin": "AT0000A0E9W5",
+        "name": "S&T"
+    },
+    "SAP.DE": {
+        "isin": "DE0007164600",
+        "name": "SAP"
+    },
+    "SRT3.DE": {
+        "isin": "DE0007165631",
+        "name": "Sartorius vz."
+    },
+    "SHL.DE": {
+        "isin": "DE000SHL1006",
+        "name": "Siemens Healthineers"
+    },
+    "WAF.DE": {
+        "isin": "DE000WAF3001",
+        "name": "Siltronic"
+    },
+    "SOW.DE": {
+        "isin": "DE000A2GS401",
+        "name": "Software"
+    },
+    "TMV.DE": {
+        "isin": "DE000A2YN900",
+        "name": "TeamViewer"
+    },
+    "O2D.DE": {
+        "isin": "DE000A1J5RX9",
+        "name": "Telefonica Deutschland"
+    },
+    "UTDI.DE": {
+        "isin": "DE0005089031",
+        "name": "United Internet"
+    },
+    "VAR1.DE": {
+        "isin": "DE000A0TGJ55",
+        "name": "Varta"
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "2018.HK": {
+        "isin": "KYG2953R1149",
+        "name": "AAC Technologies"
+    },
+    "1299.HK": {
+        "isin": "HK0000069689",
+        "name": "AIA Group"
+    },
+    "9988.HK": {
+        "isin": "KYG017191142",
+        "name": "Alibaba Group"
+    },
+    "2388.HK": {
+        "isin": "HK2388011192",
+        "name": "Bank of China (Hongkong)"
+    },
+    "3988.HK": {
+        "isin": "CNE1000001Z5",
+        "name": "Bank of China"
+    },
+    "3328.HK": {
+        "isin": "CNE100000205",
+        "name": "Bank of Communications"
+    },
+    "0939.HK": {
+        "isin": "CNE1000002H1",
+        "name": "China Construction Bank"
+    },
+    "2628.HK": {
+        "isin": "CNE1000002L3",
+        "name": "China Life Insurance"
+    },
+    "2319.HK": {
+        "isin": "KYG210961051",
+        "name": "China Mengniu Dairy"
+    },
+    "0144.HK": {
+        "isin": "HK0144000764",
+        "name": "China Merchants"
+    },
+    "0941.HK": {
+        "isin": "HK0941009539",
+        "name": "China Mobile (Hong Kong)"
+    },
+    "0688.HK": {
+        "isin": "HK0688002218",
+        "name": "China Overseas Land Investment"
+    },
+    "0386.HK": {
+        "isin": "CNE1000002Q2",
+        "name": "China Petroleum Chemical (Sinopec)"
+    },
+    "1109.HK": {
+        "isin": "KYG2108Y1052",
+        "name": "China Resources Land"
+    },
+    "0836.HK": {
+        "isin": "HK0836012952",
+        "name": "China Resources Power"
+    },
+    "0762.HK": {
+        "isin": "HK0000049939",
+        "name": "China Unicom"
+    },
+    "0267.HK": {
+        "isin": "HK0267001375",
+        "name": "CITIC Pacific"
+    },
+    "1113.HK": {
+        "isin": "KYG2177B1014",
+        "name": "CK Asset"
+    },
+    "0001.HK": {
+        "isin": "KYG217651051",
+        "name": "CK Hutchison"
+    },
+    "1038.HK": {
+        "isin": "BMG2178K1009",
+        "name": "CK Infrastructure"
+    },
+    "0002.HK": {
+        "isin": "HK0002007356",
+        "name": "CLP"
+    },
+    "0883.HK": {
+        "isin": "HK0883013259",
+        "name": "CNOOC"
+    },
+    "2007.HK": {
+        "isin": "KYG245241032",
+        "name": "Country Garden"
+    },
+    "0027.HK": {
+        "isin": "HK0027032686",
+        "name": "Galaxy Entertainment Group"
+    },
+    "0175.HK": {
+        "isin": "KYG3777B1032",
+        "name": "Geely"
+    },
+    "0101.HK": {
+        "isin": "HK0101000591",
+        "name": "Hang Lung Properties"
+    },
+    "0011.HK": {
+        "isin": "HK0011000095",
+        "name": "Hang Seng Bank"
+    },
+    "0012.HK": {
+        "isin": "HK0012000102",
+        "name": "Henderson Land Development"
+    },
+    "1044.HK": {
+        "isin": "KYG4402L1510",
+        "name": "Hengan International Group"
+    },
+    "0388.HK": {
+        "isin": "HK0388045442",
+        "name": "Hong Kong Exchanges and Clearing"
+    },
+    "0005.HK": {
+        "isin": "GB0005405286",
+        "name": "HSBC"
+    },
+    "1398.HK": {
+        "isin": "CNE1000003G1",
+        "name": "Industrial Commercial Bank of China"
+    },
+    "0992.HK": {
+        "isin": "HK0992009065",
+        "name": "Lenovo Group"
+    },
+    "0823.HK": {
+        "isin": "HK0823032773",
+        "name": "Link Real Estate Investment Trust"
+    },
+    "0066.HK": {
+        "isin": "HK0066009694",
+        "name": "MTR"
+    },
+    "0857.HK": {
+        "isin": "CNE1000003W8",
+        "name": "PetroChina"
+    },
+    "2318.HK": {
+        "isin": "CNE1000003X6",
+        "name": "Ping An Insurance"
+    },
+    "0006.HK": {
+        "isin": "HK0006000050",
+        "name": "Power Assets"
+    },
+    "1928.HK": {
+        "isin": "KYG7800X1079",
+        "name": "Sands China"
+    },
+    "0016.HK": {
+        "isin": "HK0016000132",
+        "name": "Sun Hung Kai Properties"
+    },
+    "2382.HK": {
+        "isin": "KYG8586D1097",
+        "name": "Sunny Optical Technology (Group)"
+    },
+    "0019.HK": {
+        "isin": "HK0019000162",
+        "name": "Swire Pacific"
+    },
+    "0700.HK": {
+        "isin": "KYG875721634",
+        "name": "Tencent"
+    },
+    "0023.HK": {
+        "isin": "HK0023000190",
+        "name": "The Bank of East Asia,"
+    },
+    "0003.HK": {
+        "isin": "HK0003000038",
+        "name": "The Hong Kong and China Gas Company"
+    },
+    "0288.HK": {
+        "isin": "KYG960071028",
+        "name": "WH Group"
+    },
+    "0004.HK": {
+        "isin": "HK0004000045",
+        "name": "Wharf"
+    },
+    "1997.HK": {
+        "isin": "KYG9593A1040",
+        "name": "Wharf Real Estate Investment Company"
+    },
+    "2269.HK": {
+        "isin": "KYG970081090",
+        "name": "WuXi Biologics (Cayman)"
+    },
+    "1810.HK": {
+        "isin": "KYG9830T1067",
+        "name": "Xiaomi"
+    }
+}

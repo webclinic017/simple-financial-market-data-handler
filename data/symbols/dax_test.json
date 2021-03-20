@@ -1,0 +1,129 @@
+{
+    "DE000A1EWWW0": {
+        "investpy": "ADSGn",
+        "yfinance": "ADS.DE"
+    },
+    "DE0008404005": {
+        "investpy": "ALVG",
+        "yfinance": "ALV.DE"
+    },
+    "DE000BASF111": {
+        "investpy": "BASFn",
+        "yfinance": "BAS.DE"
+    },
+    "DE000BAY0017": {
+        "investpy": "BAYGn",
+        "yfinance": "BAYN.DE"
+    },
+    "DE0005200000": {
+        "investpy": "BEIG",
+        "yfinance": "BEI.DE"
+    },
+    "DE0005190003": {
+        "investpy": "BMWG",
+        "yfinance": "BMW.DE"
+    },
+    "DE0005439004": {
+        "investpy": "CONG",
+        "yfinance": "CON.DE",
+        "entry": "24/09/2012"
+    },
+    "DE0006062144": {
+        "investpy": "1COV",
+        "yfinance": "1COV.DE",
+        "entry": "19/03/2018"
+    },
+    "DE0007100000": {
+        "investpy": "DAIGn",
+        "yfinance": "DAI.DE"
+    },
+    "DE000A2E4K43": {
+        "investpy": "DHER",
+        "yfinance": "DHER.DE",
+        "entry": "19/08/2020"
+    },
+    "DE0005140008": {
+        "investpy": "DBKGn",
+        "yfinance": "DBK.DE"
+    },
+    "DE0005810055": {
+        "investpy": "DB1Gn",
+        "yfinance": "DB1.DE"
+    },
+    "DE0005552004": {
+        "investpy": "DPWGn",
+        "yfinance": "DPW.DE"
+    },
+    "DE0005557508": {
+        "investpy": "DTEGn",
+        "yfinance": "DTE.DE"
+    },
+    "DE000A0HN5C6": {
+        "investpy": "DWNG",
+        "yfinance": "DWNI.DE",
+        "entry": "22/06/2020"
+    },
+    "DE000ENAG999": {
+        "investpy": "EONGn",
+        "yfinance": "EOAN.DE"
+    },
+    "DE0005785604": {
+        "investpy": "FREG",
+        "yfinance": "FRE.DE"
+    },
+    "DE0005785802": {
+        "investpy": "FMEG",
+        "yfinance": "FME.DE"
+    },
+    "DE0006047004": {
+        "investpy": "HEIG",
+        "yfinance": "HEI.DE",
+        "entry": "21/06/2010"
+    },
+    "DE0006048432": {
+        "investpy": "HNKG_p",
+        "yfinance": "HEN3.DE"
+    },
+    "DE0006231004": {
+        "investpy": "IFXGn",
+        "yfinance": "IFX.DE"
+    },
+    "IE00BZ12WP82": {
+        "investpy": "LINI",
+        "yfinance": "LIN.DE"
+    },
+    "DE0006599905": {
+        "investpy": "MRCG",
+        "yfinance": "MRK.DE"
+    },
+    "DE000A0D9PT0": {
+        "investpy": "MTXGn",
+        "yfinance": "MTX.DE",
+        "entry": "04/09/2019"
+    },
+    "DE0008430026": {
+        "investpy": "MUVGn",
+        "yfinance": "MUV2.DE"
+    },
+    "DE0007037129": {
+        "investpy": "RWEG",
+        "yfinance": "RWE.DE"
+    },
+    "DE0007164600": {
+        "investpy": "SAPG",
+        "yfinance": "SAP.DE"
+    },
+    "DE0007236101": {
+        "investpy": "SIEGn",
+        "yfinance": "SIE.DE"
+    },
+    "DE0007664039": {
+        "investpy": "VOWG_p",
+        "yfinance": "VOW3.DE"
+    },
+    "DE000A1ML7J1": {
+        "investpy": "VNAn",
+        "yfinance": "VNA.DE",
+        "entry": "21/09/2015"
+    }
+}

@@ -1,0 +1,282 @@
+{
+    "DRI.DE": {
+        "isin": "DE0005545503",
+        "name": "1&1 Drillisch"
+    },
+    "ADJ.DE": {
+        "isin": "LU1250154413",
+        "name": "ADO Properties"
+    },
+    "ADV.DE": {
+        "isin": "DE0005103006",
+        "name": "ADVA"
+    },
+    "AAD.DE": {
+        "isin": "DE0005093108",
+        "name": "Amadeus FiRe"
+    },
+    "BYW6.DE": {
+        "isin": "DE0005194062",
+        "name": "BayWa"
+    },
+    "BFSA.DE": {
+        "isin": "LU1704650164",
+        "name": "Befesa"
+    },
+    "GBF.DE": {
+        "isin": "DE0005909006",
+        "name": "Bilfinger"
+    },
+    "BVB.DE": {
+        "isin": "DE0005493092",
+        "name": "BVB (Borussia Dortmund)"
+    },
+    "CEC.DE": {
+        "isin": "DE0007257503",
+        "name": "Ceconomy St."
+    },
+    "CWC.DE": {
+        "isin": "DE0005403901",
+        "name": "CEWE Stiftung"
+    },
+    "CCAP.DE": {
+        "isin": "LU1296758029",
+        "name": "Corestate Capital"
+    },
+    "CE2.DE": {
+        "isin": "DE000A0LAUP1",
+        "name": "CropEnergies"
+    },
+    "DMP.DE": {
+        "isin": "DE000A2GS5D8",
+        "name": "Dermapharm"
+    },
+    "DBAN.DE": {
+        "isin": "DE000A1TNUT7",
+        "name": "Deutsche Beteiligungs"
+    },
+    "DEQ.DE": {
+        "isin": "DE0007480204",
+        "name": "Deutsche Euroshop"
+    },
+    "DEZ.DE": {
+        "isin": "DE0006305006",
+        "name": "DEUTZ"
+    },
+    "DIC.DE": {
+        "isin": "DE000A1X3XX4",
+        "name": "DIC Asset"
+    },
+    "DRW3.DE": {
+        "isin": "DE0005550636",
+        "name": "Dr\u00c3\u00a4gerwerk"
+    },
+    "DWS.DE": {
+        "isin": "DE000DWS1007",
+        "name": "DWS Group"
+    },
+    "EUZ.DE": {
+        "isin": "DE0005659700",
+        "name": "Eckert Ziegler Strahlen- und Medizintechnik"
+    },
+    "ZIL2.DE": {
+        "isin": "DE0007856023",
+        "name": "ElringKlinger"
+    },
+    "ECV.DE": {
+        "isin": "DE0006095003",
+        "name": "ENCAVIS"
+    },
+    "FIE.DE": {
+        "isin": "DE0005772206",
+        "name": "Fielmann"
+    },
+    "FTK.DE": {
+        "isin": "DE000FTG1111",
+        "name": "flatexDEGIRO"
+    },
+    "GFG.DE": {
+        "isin": "LU2010095458",
+        "name": "Global Fashion Group (GFG)"
+    },
+    "GLJ.DE": {
+        "isin": "DE000A161N30",
+        "name": "GRENKE"
+    },
+    "HAB.DE": {
+        "isin": "DE0006013006",
+        "name": "HAMBORNER REIT"
+    },
+    "HAG.DE": {
+        "isin": "DE000HAG0005",
+        "name": "HENSOLDT"
+    },
+    "HHFA.DE": {
+        "isin": "DE000A0S8488",
+        "name": "HHLA"
+    },
+    "H24.DE": {
+        "isin": "DE000A14KEB5",
+        "name": "Home24"
+    },
+    "HBH.DE": {
+        "isin": "DE0006083405",
+        "name": "HORNBACH"
+    },
+    "HBM.DE": {
+        "isin": "DE0006084403",
+        "name": "HORNBACH Baumarkt"
+    },
+    "HYQ.DE": {
+        "isin": "DE0005493365",
+        "name": "Hypoport"
+    },
+    "INH.DE": {
+        "isin": "DE0006200108",
+        "name": "INDUS"
+    },
+    "INS.DE": {
+        "isin": "DE000A2NBX80",
+        "name": "Instone Real Estate Group"
+    },
+    "JEN.DE": {
+        "isin": "DE000A2NB601",
+        "name": "JENOPTIK"
+    },
+    "JST.DE": {
+        "isin": "DE000JST4000",
+        "name": "JOST Werke"
+    },
+    "JUN3.DE": {
+        "isin": "DE0006219934",
+        "name": "Jungheinrich"
+    },
+    "KCO.DE": {
+        "isin": "DE000KC01000",
+        "name": "Kl\u00c3\u00b6ckner"
+    },
+    "SKB.DE": {
+        "isin": "DE0007193500",
+        "name": "Koenig Bauer"
+    },
+    "KRN.DE": {
+        "isin": "DE0006335003",
+        "name": "KRONES"
+    },
+    "KWS.DE": {
+        "isin": "DE0007074007",
+        "name": "KWS SAAT"
+    },
+    "LPK.DE": {
+        "isin": "DE0006450000",
+        "name": "LPKF Laser Electronics"
+    },
+    "ILM1.DE": {
+        "isin": "DE000A1MMCC8",
+        "name": "Medios"
+    },
+    "NWO.DE": {
+        "isin": "DE000NWRK013",
+        "name": "New Work"
+    },
+    "NDX1.DE": {
+        "isin": "DE000A0D6554",
+        "name": "Nordex"
+    },
+    "NOEJ.DE": {
+        "isin": "DE000A1H8BV3",
+        "name": "NORMA Group"
+    },
+    "PAT.DE": {
+        "isin": "DE000PAT1AG3",
+        "name": "PATRIZIA Immobilien"
+    },
+    "PBB.DE": {
+        "isin": "DE0008019001",
+        "name": "pbb"
+    },
+    "PFV.DE": {
+        "isin": "DE0006916604",
+        "name": "Pfeiffer Vacuum"
+    },
+    "RRTL.DE": {
+        "isin": "LU0061462528",
+        "name": "RTL"
+    },
+    "SANT.DE": {
+        "isin": "AT0000A0E9W5",
+        "name": "S&T"
+    },
+    "SFQ.DE": {
+        "isin": "DE000SAFH001",
+        "name": "SAF-HOLLAND"
+    },
+    "SZG.DE": {
+        "isin": "DE0006202005",
+        "name": "Salzgitter"
+    },
+    "SHA.DE": {
+        "isin": "DE000SHA0159",
+        "name": "Schaeffler"
+    },
+    "SIX2.DE": {
+        "isin": "DE0007231326",
+        "name": "Sixt"
+    },
+    "S92.DE": {
+        "isin": "DE000A0DJ6J9",
+        "name": "SMA Solar"
+    },
+    "SHF.DE": {
+        "isin": "DE0007203705",
+        "name": "SNP Schneider-Neureither Partner"
+    },
+    "STM.DE": {
+        "isin": "LU1066226637",
+        "name": "Stabilus"
+    },
+    "SBS.DE": {
+        "isin": "DE000STRA555",
+        "name": "STRATEC"
+    },
+    "SZU.DE": {
+        "isin": "DE0007297004",
+        "name": "S\u00c3\u00bcdzucker"
+    },
+    "TTK.DE": {
+        "isin": "DE0007446007",
+        "name": "TAKKT"
+    },
+    "TLX.DE": {
+        "isin": "DE000TLX1005",
+        "name": "Talanx"
+    },
+    "8TRA.DE": {
+        "isin": "DE000TRAT0N7",
+        "name": "TRATON"
+    },
+    "VBK.DE": {
+        "isin": "DE000A0JL9W6",
+        "name": "VERBIO Vereinigte BioEnergie"
+    },
+    "VOS.DE": {
+        "isin": "DE0007667107",
+        "name": "Vossloh"
+    },
+    "WAC.DE": {
+        "isin": "DE000WACK012",
+        "name": "Wacker Neuson"
+    },
+    "WEW.DE": {
+        "isin": "DE000A2N4H07",
+        "name": "Westwing Group"
+    },
+    "TIMA.DE": {
+        "isin": "DE000ZEAL241",
+        "name": "ZEAL Network"
+    },
+    "ZO1.DE": {
+        "isin": "DE0005111702",
+        "name": "zooplus"
+    }
+}

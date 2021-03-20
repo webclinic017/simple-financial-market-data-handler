@@ -1,0 +1,47 @@
+{
+    "^GDAXI": {
+        "name": "DAX"
+    },
+    "^MDAXI": {
+        "name": "MDAX"
+    },
+    "^TECDAX": {
+        "name": "TECDAX"
+    },
+    "^SDAXI": {
+        "name": "SDAX"
+    },
+    "^STOXX50E": {
+        "name": "ESTX"
+    },
+    "^DJI": {
+        "name": "DJ"
+    },
+    "^IXIC": {
+        "name": "NASDAQ"
+    },
+    "^GSPC": {
+        "name": "SPX"
+    },
+    "^FCHI": {
+        "name": "CAC40"
+    },
+    "^FTSE": {
+        "name": "FTSE100"
+    },
+    "^IBEX": {
+        "name": "IBEX"
+    },
+    "^N225": {
+        "name": "NI225"
+    },
+    "^HSI": {
+        "name": "HSI"
+    },
+    "000001.SS": {
+        "name": "SHCOMP"
+    },
+	"000300.SS": {
+		"name": "CSI300"
+	}
+}
