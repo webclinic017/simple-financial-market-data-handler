@@ -20,6 +20,11 @@ So, to get a long term history without gaps the data must be fetched at least on
 To get a first impression about how the fetched data may be processed, please have a look at [this](https://github.com/neongelb/deep-financial-market-analysis).
 
 ## Overview
+**Available symbols**:
+- indizes:
+- stocks:
+- miscellaneous:
+
 
 ## Getting Started
 ### Requirements
