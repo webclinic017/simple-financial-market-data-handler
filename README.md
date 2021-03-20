@@ -25,6 +25,9 @@ To get a first impression about how the fetched data may be processed, please ha
 ### Requirements
 - [yfinance](https://github.com/ranaroussi/yfinance) >= 0.1.55
 
+## License
+This codebase is distributed under the **Apache Software License**. See the [LICENSE](LICENSE) file in the release for details.
+
 
 ## Acknowledgements
 - [yfinance](https://github.com/ranaroussi/yfinance)
