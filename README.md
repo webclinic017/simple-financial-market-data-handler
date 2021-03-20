@@ -1,4 +1,4 @@
-# Fetching and managing key financial market data
+# Simply fetching and managing historical market data of key assets
 Code to automatically fetch and manage data of the most relevant indices, stocks and other financial assets utilizing yfinance.
 
 
