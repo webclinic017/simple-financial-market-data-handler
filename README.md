@@ -15,7 +15,7 @@ Code to automatically fetch and manage data of the most relevant indices, stocks
 | 60 min  | 730 days  |
 | 1 day  | 10 years  |
 
-So, to get a long term history without gaps the data must be fetched at least once a week (for one minute intervals).
+So, to get a long term history without gaps the data must be fetched at least once a week (for one minute intervals). However, you can contact me at any time, I can provide individual history data since January 2021. I do not share this publicly to avoid legal issues.
 
 To get a first impression about how the fetched data may be processed, please have a look at [this](https://github.com/neongelb/deep-financial-market-analysis).
 
