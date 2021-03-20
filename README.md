@@ -4,7 +4,7 @@ Code to automatically fetch and manage data of the most relevant indices, stocks
 
 ## Introduction
 
-[yfinance](https://github.com/ranaroussi/yfinance) is a great and well established python library to download historical market data from Yahoo! finance. This repository builds on this and additionally provides a continuously updated compilation of symbols for the most important stock indices, related components and other financial assets. Moreover, it allows to easily to store and update fetched symbol data in [pandas](https://github.com/pandas-dev/pandas) dataframes on disk. Thus, you can gain a comprehensive basis for stock market analysis and for development of trading algorithms with minimal effort.
+[yfinance](https://github.com/ranaroussi/yfinance) is a great and well established python library to download historical market data from Yahoo! finance. This repository builds on this and additionally provides a continuously updated compilation of symbols for the most important stock indices, related components and other financial assets. Moreover, it allows to easily store and update fetched symbol data in [pandas](https://github.com/pandas-dev/pandas) dataframes on disk. Thus, you can obtain a comprehensive basis for stock market analysis and for development of trading algorithms with minimal effort.
 
 **Note**: The Yahoo Finance API limits the number of requests per hour to 2000. This may become an issue if you seek to download data for each available symbol and interval at a single blow. In addition, the time period in which data can be retrieved retroactively is limited, depending on the selected interval size:
 
