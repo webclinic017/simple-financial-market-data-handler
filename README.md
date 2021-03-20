@@ -1,4 +1,4 @@
-# fetching-and-managing-major-financial-data
+# Fetching and managing key financial market data
 Code to automatically fetch and manage data of the most relevant indices, stocks and other financial assets utilizing yfinance.
 
 
@@ -21,12 +21,13 @@ To get a first impression about how the fetched data may be processed, please ha
 
 ## Overview
 
-
-## Installation
-### Requirements
-
-
 ## Getting Started
+### Requirements
+- [yfinance](https://github.com/ranaroussi/yfinance) >=
+
+
+## Acknowledgements
+- [yfinance](https://github.com/ranaroussi/yfinance)
 
 
 
