@@ -20,10 +20,21 @@ So, to get a long term history without gaps the data must be fetched at least on
 To get a first impression about how the fetched data may be processed, please have a look at [this](https://github.com/neongelb/deep-financial-market-analysis).
 
 ## Overview
-**Available symbols**:
-- indizes: S&P 500 (USA), Dow Jones (USA), Nasdaq-100 (USA), DAX (Germany), MDAX (Germany), TECDAX (Germany), SDAX (Germany), CAC40 (France), FTSE100 (United Kingdom), IBEX35 (Spain), STOXX Europe 50, Nikkei 225 (Japan), HSI (Hong Kong), SSE Composite (China), CSI300 (China)
-- stocks:
-- miscellaneous:
+### Available symbols:
+- **Indizes**: 
+  - USA: S&P 500, Dow Jones, Nasdaq-100 
+  - Europe: DAX, MDAX, TECDAX, SDAX, CAC40, FTSE100, IBEX35, STOXX Europe 50, 
+  - Asia: Nikkei 225, HSI, SSE Composite, CSI300
+- **Stocks**: 
+  - USA: S&P 500 Components, Dow Jones Components, Nasdaq-100 Components 
+  - Europe: DAX Components, MDAX Components, TECDAX Components, SDAX Components
+  - Asia: Nikkei 225 Components, HSI Components, CSI300 Components
+- **Miscellaneous**:
+  - Currencies: EUR-USD
+  - Commodities: Gold
+  - Cryptos: BTC-USD, ETH-USD, CMC Crypto 200 Index
+  - ETFS: iShares MSCI World ETF
+  - Others: Treasury Yield 10 Years
 
 Feel free to propose any other relevant symbols available on Yahoo! finance.
 
