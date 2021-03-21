@@ -21,10 +21,11 @@ To get a first impression about how the fetched data may be processed, please ha
 
 ## Overview
 **Available symbols**:
-- indizes:
+- indizes: S&P 500 (USA), Dow Jones (USA), Nasdaq-100 (USA), DAX (Germany), MDAX (Germany), TECDAX (Germany), SDAX (Germany), CAC40 (France), FTSE100 (United Kingdom), IBEX35 (Spain), STOXX Europe 50, Nikkei 225 (Japan), HSI (Hong Kong), SSE Composite (China), CSI300 (China)
 - stocks:
 - miscellaneous:
 
+Feel free to propose any other relevant symbols available on Yahoo! finance.
 
 ## Getting Started
 ### Requirements
