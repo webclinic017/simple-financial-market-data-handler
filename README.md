@@ -20,7 +20,7 @@ So, to get a long term history without gaps the data must be fetched at least on
 To get a first impression about how the fetched data may be processed, please have a look at [this](https://github.com/neongelb/deep-financial-market-analysis).
 
 ## Overview
-Utilizing this codebase allows to maintain a long-term collection of historical market data of currently approx. 1300 different symbols. I'll try to keep the index component symbols as up-to-date as possible. Thus, for you it's necessary to contuously pull updates from this repository.
+Utilizing this codebase allows to maintain a long-term collection of historical market data of currently approx. 1300 different symbols. I'll try to keep the index component symbols as up-to-date as possible. Thus, for you it's necessary to continuously pull updates from this repository.
 ### So far considered symbols:
 - **Indizes**: 
   - USA: S&P 500, Dow Jones, Nasdaq-100 
@@ -38,6 +38,19 @@ Utilizing this codebase allows to maintain a long-term collection of historical 
   - Others: Treasury Yield 10 Years
 
 Feel free to propose any other relevant symbols available on Yahoo! finance.
+
+### Content:
+    .
+    ├── data                    # ...
+    │   ├── 1min                # ...
+    │   ├── 15min               # ...
+    │   ├── 60min               # ...
+    │   ├── 1d                  # ...
+    │   ├── raw                 # ...   
+    │   └── symbols             # ...
+    ├── market_data_management.py
+    └── symbol_management.py
+
 
 ## Getting Started
 ### Requirements
